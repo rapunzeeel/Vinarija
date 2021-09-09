@@ -1,0 +1,12 @@
+insert into vinvin values (10,11,11, 10000);
+insert into vinvin values (20,4,4, 20000);
+insert into vinvin values (30,10,10, 25000);
+insert into vinvin values (40,5,5, 15000);
+insert into vinvin values (50,3,3, 32000);
+insert into vinvin values (60,5,5, 20000);
+insert into vinvin values (70,1,1, 15000);
+insert into vinvin values (80,1,1, 25000);
+insert into vinvin values (90,11,11, 14000);
+insert into vinvin values (100,4,4, 30000);
+insert into vinvin values (110,5,5, 23000);
+insert into vinvin values (120,10,10, 17000);

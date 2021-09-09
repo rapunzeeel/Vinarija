@@ -1,0 +1,12 @@
+insert into Vino values (10,11,'Cabernet Sauvignon Classique', 'Crno','Cabernet Sauvignon', 1980, 3.4);
+insert into Vino values (20,4, '8 tamburasa' , 'Belo', 'Chardonnay',1988, 3.2); 
+insert into Vino values (30,10,'Plava Paunica' , 'Belo', 'Sauvignon Blanc',1999, 3.1); 
+insert into Vino values (40,5, 'Aurelius Kovacevic' , 'Crno', 'Merlot',1990, 3.2);
+insert into Vino values (50,3, 'Rizling Rajnski', 'Belo', 'Risling',1997, 3.4);
+insert into Vino values (60,5, 'Kovacevic Pinot noir', 'Crno', 'Pinot noir',2010, 3.3); 
+insert into Vino values (70,1, 'Raj bela tamjanika', 'Belo', 'Bela tamjanika',2001, 3.2);
+insert into Vino values (80,1,'Raj crna tamjanika' , 'Crno',  'Crna tamjanika',2009, 3.3);
+insert into Vino values (90,11, 'Chardonnay Classique', 'Belo', 'Chardonnay',2019, 3.5);
+insert into Vino values (100,4, 'Zivot tece', 'Crno', 'Merlot',2016, 3.5);
+insert into Vino values (110,5, 'Chardonnay Kovacevic' , 'Belo', 'Chardonnay',1999, 3.3);
+insert into Vino values (120,10, 'Vivak Prokupac' , 'Crno', 'Prokupac',2012, 3.2); 
